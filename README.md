@@ -15,7 +15,7 @@
 
 ### Installing
 
-* Go to artifacts folder and download flowers.jar file or click [here](out/artifacts/flowers_jar/flowers.jar)
+* Go to artifacts folder and download flowers.jar file or click [here](out/artifacts/flowers_jar/flowers.jar).
 
 ## Help
 
