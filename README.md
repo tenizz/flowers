@@ -1,4 +1,4 @@
-# Flowers - Clicker game
+# Flowers :hibiscus:
 
    Clicker game using Java. Growing flowers in the garden.
 
