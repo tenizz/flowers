@@ -2,10 +2,8 @@
 
    Clicker game using Java. Growing flowers in the garden.
    
-   ![This is a screenshot of the game] https://github.com/tenizz/flowers/blob/main/Screen%20Shot%20Flowers%20version%20001.png?raw=true![image](https://user-images.githubusercontent.com/41874992/224509786-87b71031-948d-44f0-9816-ab3522f4849c.png)
-   
    ![This is a screenshot of the game](/Screen%20Shot%20Flowers%20version%20001.png)
-   <img alt="This is a screenshot of the game." src="/Screen%20Shot%20Flowers%20version%20001.png">
+  <!-- <img alt="This is a screenshot of the game." src="/Screen%20Shot%20Flowers%20version%20001.png"> -->
 
 
 
