@@ -15,7 +15,7 @@
 
 ### Installing
 
-* Go to bin and find exe file. Download it.
+* Go to artifacts folder and download flowers.jar file or click [here](out/artifacts/flowers_jar/flowers.jar)
 
 ## Help
 
