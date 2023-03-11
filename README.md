@@ -1,6 +1,9 @@
 # Flowers :hibiscus:
 
    Clicker game using Java. Growing flowers in the garden.
+   
+   ![screenshot version 0.0.1]<img width="611" alt="Screen Shot 2023-03-11 at 12 33 56 PM" src="https://user-images.githubusercontent.com/41874992/224508172-c5cc3d60-d856-48f9-a8bb-0957ccefe415.png">
+
 
 ## Description
 
