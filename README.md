@@ -1,13 +1,10 @@
-# flowers
-Clicker game using Java
-
 # Flowers - Clicker game
 
-Clicker game using Java. Growing flowers in the garden.
+   Clicker game using Java. Growing flowers in the garden.
 
 ## Description
 
-You have been given a couple of seeds in the beginning of the game. You can use them to plant flowers and get more of the seeds. Different flowers give different amount of seeds as they grow. Flowers grow only when it is a day time. When rain starts some flowers may die.
+   You have been given a couple of seeds in the beginning of the game. You can use them to plant flowers and get more of the seeds. Different flowers give different amount of seeds as they grow. Flowers grow only when it is a day time. When rain starts some flowers may die.
 
 ## Getting Started
 
@@ -17,7 +14,7 @@ You have been given a couple of seeds in the beginning of the game. You can use 
 
 ## Help
 
-Seeds are obtained in 15 seconds interval.
+   Seeds are obtained in 15 seconds interval.
 
 :blossom: Yellow flowers give 1 seed. 
 :four_leaf_clover: Green flowers give 2 seeds.
@@ -39,6 +36,23 @@ ex. [@DomPizzie](https://twitter.com/dompizzie) -->
     * See [commit change]() or See [release history]() -->
 * 0.1
     * Initial Release
+
+
+## To DO List
+
+
+- [x] Create Flowers 
+    - [x] Give each type its own value and income which it is capable to produce
+    - [x] Income depends on time. Each perdiod of time seeds are generated from available flowers.
+- [ ] Create Raining conditions and Droughts 
+    - [ ] Implement the loss of flowers
+- [ ] Increase the garden
+- [ ] Manage economy of the game
+- [ ] Create Game Over case.
+- [ ] Add visual and sounds.
+    - [ ] Images of flowers
+    - [ ] Background
+    - [ ] Music - sound effects
 
 <!--  ## License
 
