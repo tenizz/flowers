@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="flowers01.gameScene">
+  <grid id="27dc6" binding="panel1" default-binding="true" layout-manager="GridLayoutManager" row-count="5" column-count="4" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="500" height="400"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <component id="7ad95" class="javax.swing.JButton" binding="button1" default-binding="true">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-13229049"/>
+          <enabled value="true"/>
+          <foreground color="-4143164"/>
+          <horizontalTextPosition value="0"/>
+          <text value="Cost: 1"/>
+        </properties>
+      </component>
+      <component id="e432b" class="javax.swing.JButton" binding="button2" default-binding="true">
+        <constraints>
+          <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-13229049"/>
+          <enabled value="true"/>
+          <foreground color="-4143164"/>
+          <horizontalTextPosition value="0"/>
+          <text value="Cost: 1"/>
+        </properties>
+      </component>
+      <component id="d053b" class="javax.swing.JButton" binding="button3">
+        <constraints>
+          <grid row="1" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-13229049"/>
+          <enabled value="true"/>
+          <foreground color="-4143164"/>
+          <text value="Cost: 1"/>
+        </properties>
+      </component>
+      <component id="fe4d4" class="javax.swing.JButton" binding="button4">
+        <constraints>
+          <grid row="1" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-13229049"/>
+          <enabled value="true"/>
+          <foreground color="-4143164"/>
+          <text value="Cost: 1"/>
+        </properties>
+      </component>
+      <component id="ef242" class="javax.swing.JButton" binding="button5">
+        <constraints>
+          <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-13229049"/>
+          <enabled value="true"/>
+          <foreground color="-4143164"/>
+          <text value="Cost: 10"/>
+        </properties>
+      </component>
+      <component id="b8295" class="javax.swing.JButton" binding="button10">
+        <constraints>
+          <grid row="3" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-13229049"/>
+          <enabled value="true"/>
+          <foreground color="-4143164"/>
+          <text value="Cost: 100"/>
+        </properties>
+      </component>
+      <component id="dd22d" class="javax.swing.JButton" binding="button6">
+        <constraints>
+          <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-13229049"/>
+          <enabled value="true"/>
+          <foreground color="-4143164"/>
+          <text value="Cost: 10"/>
+        </properties>
+      </component>
+      <component id="54f8b" class="javax.swing.JButton" binding="button7">
+        <constraints>
+          <grid row="2" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-13229049"/>
+          <enabled value="true"/>
+          <foreground color="-4143164"/>
+          <text value="Cost: 10"/>
+        </properties>
+      </component>
+      <component id="e9115" class="javax.swing.JButton" binding="button8">
+        <constraints>
+          <grid row="2" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-13229049"/>
+          <enabled value="true"/>
+          <foreground color="-4143164"/>
+          <text value="Cost: 10"/>
+        </properties>
+      </component>
+      <component id="f03b5" class="javax.swing.JButton" binding="button12">
+        <constraints>
+          <grid row="3" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-13229049"/>
+          <enabled value="true"/>
+          <foreground color="-4143164"/>
+          <text value="Cost: 100"/>
+        </properties>
+      </component>
+      <component id="89e1c" class="javax.swing.JButton" binding="button14">
+        <constraints>
+          <grid row="4" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-13229049"/>
+          <enabled value="true"/>
+          <foreground color="-4143164"/>
+          <text value="Cost: 1000"/>
+        </properties>
+      </component>
+      <component id="e828c" class="javax.swing.JButton" binding="button13">
+        <constraints>
+          <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-13229049"/>
+          <enabled value="true"/>
+          <foreground color="-4143164"/>
+          <text value="Cost: 1000"/>
+        </properties>
+      </component>
+      <component id="cdd8f" class="javax.swing.JButton" binding="button9">
+        <constraints>
+          <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-13229049"/>
+          <enabled value="true"/>
+          <foreground color="-4143164"/>
+          <text value="Cost: 100"/>
+        </properties>
+      </component>
+      <component id="1ea6d" class="javax.swing.JButton" binding="button11">
+        <constraints>
+          <grid row="3" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-13229049"/>
+          <enabled value="true"/>
+          <foreground color="-4143164"/>
+          <text value="Cost: 100"/>
+        </properties>
+      </component>
+      <component id="31f6" class="javax.swing.JButton" binding="button15">
+        <constraints>
+          <grid row="4" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-13229049"/>
+          <enabled value="true"/>
+          <foreground color="-4143164"/>
+          <text value="Cost: 1000"/>
+        </properties>
+      </component>
+      <component id="eea41" class="javax.swing.JButton" binding="button16">
+        <constraints>
+          <grid row="4" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-13229049"/>
+          <enabled value="true"/>
+          <foreground color="-4143164"/>
+          <text value="Cost: 1000"/>
+        </properties>
+      </component>
+      <component id="bd323" class="javax.swing.JLabel" binding="labelSeeds">
+        <constraints>
+          <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="4" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Seeds:"/>
+        </properties>
+      </component>
+      <component id="d7637" class="javax.swing.JLabel" binding="labelCount">
+        <constraints>
+          <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="0"/>
+        </properties>
+      </component>
+      <component id="d9c62" class="javax.swing.JLabel" binding="weather">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Sun"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
