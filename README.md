@@ -2,7 +2,7 @@
 
    Clicker game using Java. Growing flowers in the garden.
    
-   ![This is a screenshot of the game](/Screen Shot Flowers version 001.png)
+   ![This is a screenshot of the game](/assets/images/Screen Shot Flowers version 001.png)
 
 
 ## Description
