@@ -34,8 +34,8 @@ ex. [@DomPizzie](https://twitter.com/dompizzie) -->
 <!-- * 0.2
     * Various bug fixes and optimizations
     * See [commit change]() or See [release history]() -->
-* 0.1
-    * Initial Release
+* flowers01
+    * Initial Release - version 0.0.1
 
 
 ## To DO List
