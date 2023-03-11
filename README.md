@@ -16,10 +16,10 @@
 
    Seeds are obtained in 15 seconds interval.
 
-:blossom: Yellow flowers give 1 seed. 
-:four_leaf_clover: Green flowers give 2 seeds.
-:cherry_blossom: Pink flowers give 3 seeds.
-:rosette: Orange flowers give 5 seeds.
+ - :blossom: Yellow flowers give 1 seed. 
+ - :four_leaf_clover: Green flowers give 2 seeds.
+ - :cherry_blossom: Pink flowers give 3 seeds.
+ - :rosette: Orange flowers give 5 seeds.
 
 <!--
 ## Authors
