@@ -36,11 +36,15 @@ ex. [@DomPizzie](https://twitter.com/dompizzie) -->
 
 ## Version History
 
-<!-- * 0.2
+<!-- * 0.2.0
     * Various bug fixes and optimizations
     * See [commit change]() or See [release history]() -->
-* flowers01
-    * Initial Release - version 0.0.1
+* flowers version 0.1.2
+    - Fixed naming for unavailable planting places 
+    - Changed game economy 
+    - Added Label which displays the rate of obtaining seeds from flowers
+* flowers version 0.1.1
+    * Initial Release
 
 
 ## To DO List
