@@ -19,7 +19,7 @@
 
 ## Help
 
-   Seeds are obtained in 15 seconds interval.
+   Seeds are obtained in 5 seconds interval.
 
  - :blossom: Yellow flowers give 1 seed. 
  - :four_leaf_clover: Green flowers give 2 seeds.
@@ -40,14 +40,14 @@ ex. [@DomPizzie](https://twitter.com/dompizzie) -->
     * Various bug fixes and optimizations
     * See [commit change]() or See [release history]() -->
 * flowers version 0.1.2
-    - Fixed naming for unavailable planting places 
-    - Changed game economy 
-    - Added Label which displays the rate of obtaining seeds from flowers
+    * Fixed naming for unavailable planting places 
+    * Changed game economy 
+    * Added Label which displays the rate of obtaining seeds from flowers
 * flowers version 0.1.1
     * Initial Release
 
 
-## To DO List
+## TODO List
 
 
 - [x] Create Flowers 
