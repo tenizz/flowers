@@ -54,8 +54,11 @@ ex. [@DomPizzie](https://twitter.com/dompizzie) -->
     - [x] Give each type its own value and income which it is capable to produce
     - [x] Income depends on time. Each perdiod of time seeds are generated from available flowers.
 - [ ] Create Raining conditions and Droughts 
-    - [ ] Implement the loss of flowers
+    - [ ] Implement the loss of flowers when Droughts
+    - [ ] When raining, amount of obtaining seeds doubles
+    - [ ] Create random pattern which will work unbiased towards all scenarios of weather
 - [ ] Increase the garden
+- [ ] Give player a chance to choose which flower to plant
 - [ ] Manage economy of the game
 - [ ] Create Game Over case.
 - [ ] Add visual and sounds.
